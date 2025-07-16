@@ -17,7 +17,7 @@
 
 | | | |
 |--|--|--|
-| ![]([https://raw.githubusercontent.com/nymus573l/dotfiles/main/showcase/1.png](https://github.com/nymus573l/dotfiles/blob/main/showcase/Screenshot%202025-07-16%20184342.png)) | ![](https://raw.githubusercontent.com/nymus573l/dotfiles/main/showcase/2.png) | ![](https://raw.githubusercontent.com/nymus573l/dotfiles/main/showcase/3.png) |
+| ![](https://raw.githubusercontent.com/nymus573l/dotfiles/main/showcase/1.png) | ![](https://raw.githubusercontent.com/nymus573l/dotfiles/main/showcase/2.png) | ![](https://raw.githubusercontent.com/nymus573l/dotfiles/main/showcase/3.png) |
 | ![](https://raw.githubusercontent.com/nymus573l/dotfiles/main/showcase/4.png) | | |
 
 ---
