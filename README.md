@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+Dotfiles!;Minimal+%2B+Powerful+Windows+Setup;GlazeWM+%2B+YASB+%2B+WHKD+%2B+PowerToys" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+Dotfiles!;Minimal+%2B+clean;GlazeWM+%2B+YASB+%2B+WHKD+%2B+PowerToys" alt="Typing SVG" />
 </p>
 
 <h1 align="center">🧠 Minimal. Fast. Custom.</h1>
