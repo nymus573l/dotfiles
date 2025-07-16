@@ -39,17 +39,14 @@ Welcome to my personal dotfiles repository – a **Windows productivity powerhou
 | 🪟 **GlazeWM**     | Tiling window manager             |
 | 🚀 **YASB**        | Status bar for live system info  |
 | 🎹 **WHKD**        | Hotkey daemon (like sxhkd)       |
-| 🧪 **PowerToys**   | Microsoft utilities for power users |
+| 🧪 **PowerToys**   | Microsoft utility for the custom search thing |
 
 ---
 
 ## ⚙️ Features
 
 - 💨 Fast, minimal, no-bloat
-- 🖥️ Full keyboard-driven workflow
-- 🌙 Light/dark friendly YASB theming
-- 📦 Modular config system
-- 🪛 Easy install via PowerShell script
+- 🖥️ Pretty easy configuration for custom windows look, clean and cool
 
 ---
 
@@ -60,5 +57,4 @@ Welcome to my personal dotfiles repository – a **Windows productivity powerhou
 ├── glaze/         # GlazeWM config
 ├── yasb/          # YASB scripts & styles
 ├── whkd/          # Keybinds configuration
-├── powershell/    # PowerToys CLI / scripts
-└── install.ps1    # Automated setup script
+└── terminal/      # Windows Terminal settings
