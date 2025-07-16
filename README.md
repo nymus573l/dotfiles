@@ -13,11 +13,11 @@
 
 ---
 
-## 🎥 Live Demo
+## 🖼️ Screenshots
 
-> 🎬 Check out my setup in action!
-
-[![Dotfiles Demo](https://img.shields.io/badge/Watch-Setup%20Demo-ff69b4?style=for-the-badge&logo=youtube)](https://user-images.githubusercontent.com/yourusername/yourvideo.mp4)
+| | | |
+|--|--|--|
+| ![](https://raw.githubusercontent.com/nymus573l/dotfiles/main/showcase/1.png) | ![](https://raw.githubusercontent.com/nymus573l/dotfiles/main/showcase/2.png) | ![](https://raw.githubusercontent.com/nymus573l/dotfiles/main/showcase/3.png) |
 
 ---
 
