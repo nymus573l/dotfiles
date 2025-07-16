@@ -18,7 +18,7 @@
 | | | |
 |--|--|--|
 | ![](https://raw.githubusercontent.com/nymus573l/dotfiles/main/showcase/1.png) | ![](https://raw.githubusercontent.com/nymus573l/dotfiles/main/showcase/2.png) | ![](https://raw.githubusercontent.com/nymus573l/dotfiles/main/showcase/3.png) |
-| ![](https://raw.githubusercontent.com/nymus573l/dotfiles/main/showcase/4.png) | | |
+| ![](https://raw.githubusercontent.com/nymus573l/dotfiles/main/showcase/4.png) | 
 
 ---
 
